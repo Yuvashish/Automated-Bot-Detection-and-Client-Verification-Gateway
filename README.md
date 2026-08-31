@@ -4,7 +4,7 @@
 
 I built a lightweight security gateway that acts as a gatekeeper in front of sensitive API endpoints. Instead of asking users to click on traffic lights, it uses invisible Proof-of-Work crypto challenges and JS fingerprinting to force automated bots to spend expensive CPU cycles before gaining access. It backs this up with sub-millisecond Redis rate-limiting and anomaly detection to automatically block suspicious traffic patterns."
 
-**Tech Stack:** Python (FastAPI) or Java (Spring Boot), Redis, PostgreSQL, Docker, Hashlib/Crypto libraries.
+**Tech Stack:** Java (Spring Boot), Redis, PostgreSQL, Docker, Hashlib/Crypto libraries.
 
 ### Prerequisites
 

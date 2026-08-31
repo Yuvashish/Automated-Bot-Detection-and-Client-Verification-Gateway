@@ -1,4 +1,4 @@
-**Automated Bot Detection and Client Verification**
+#**Automated Bot Detection and Client Verification Gateway**#
 
 **Automated Bot Detection and Client Verification Gateway** project is a custom Web Application Firewall (WAF) layer designed to protect backend services against automated attacks (like credential stuffing, scraping, and DDoS) without degrading performance or relying on intrusive visual CAPTCHAs
 

@@ -1,0 +1,6 @@
+/Users/apple/Desktop/Automated Bot Detection/gateway/src/main/java/com/security/gateway/GatewayApplication.java
+/Users/apple/Desktop/Automated Bot Detection/gateway/src/main/java/com/security/gateway/config/WebConfig.java
+/Users/apple/Desktop/Automated Bot Detection/gateway/src/main/java/com/security/gateway/controller/GatewayController.java
+/Users/apple/Desktop/Automated Bot Detection/gateway/src/main/java/com/security/gateway/interceptor/BotVerificationInterceptor.java
+/Users/apple/Desktop/Automated Bot Detection/gateway/src/main/java/com/security/gateway/service/AnomalyDetectionService.java
+/Users/apple/Desktop/Automated Bot Detection/gateway/src/main/java/com/security/gateway/service/ChallengeService.java
